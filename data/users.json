@@ -1,0 +1,23 @@
+{
+    "123": {
+        "name": "Sneha",
+        "bank": "bob",
+        "dob": "10-12-2008",
+        "pin": "2005",
+        "balance": 1000.0
+    },
+    "123456789123": {
+        "name": "Diksha",
+        "bank": "BANK OF INDIA",
+        "dob": "10-12-2008",
+        "pin": "2005",
+        "balance": 1000.0
+    },
+    "123456789789": {
+        "name": "Sneha",
+        "bank": "BANK OF INDIA",
+        "dob": "10-12-2008",
+        "pin": "1234",
+        "balance": 1000.0
+    }
+}
