@@ -31,10 +31,14 @@ This project is a simple ATM system developed using Python. It is a command-line
 ATM-Management-System/
 
 ├── data/
+
 │   ├── users.json (stores user details)
+
 │   ├── trans_<account>.txt (stores transaction history)
 
+
 ├── atm.py (main program)
+
 └── README.md
 
 ---
